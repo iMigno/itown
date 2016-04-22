@@ -71,9 +71,7 @@ angular.module('starter.controllers', [])
             });
     }
 
-    $scope.browse = function(v) {
-      window.open(v, "_system", "location=yes");
-    }
+    
  
 })
 
